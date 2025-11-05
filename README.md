@@ -3,7 +3,7 @@
 SMEServer Koozali developed git repo for smeserver-rspamd contrib
 
 ## Wiki
-<br />https://wiki.koozali.org/smeserver-rspamd
+<br />https://wiki.koozali.org/Talk:Rspamd
 
 ## Bugzilla
 Show list of outstanding bugs: [All](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=NEEDINFO&bug_status=IN_PROGRESS&bug_status=RESOLVED&bug_status=VERIFIED&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced)  
