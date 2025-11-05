@@ -1,0 +1,20 @@
+# <img src="https://www.koozali.org/images/koozali/Logo/Png/Koozali_logo_2016.png" width="25%" vertical="auto" style="vertical-align:bottom"> smeserver-rspamd
+
+SMEServer Koozali developed git repo for smeserver-rspamd contrib
+
+## Wiki
+<br />https://wiki.koozali.org/smeserver-rspamd
+
+## Bugzilla
+Show list of outstanding bugs: [All](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=NEEDINFO&bug_status=IN_PROGRESS&bug_status=RESOLVED&bug_status=VERIFIED&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced)  
+[Confirmed](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=CONFIRMED&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced)  
+[Unconfirmed](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=UNCONFIRMED&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced)  
+[Need Info](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=NEEDINFO&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced)  
+[In Progress](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=IN_PROGRESS&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced)  
+[Verified](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=VERIFIED&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced)  
+[Resolved](https://bugs.koozali.org/buglist.cgi?action=wrap&bug_status=RESOLVED&classification=Contribs&component=smeserver-rspamd&list_id=105781&order=changeddate+DESC%2Ccomponent%2Cpriority%2Cbug_severity&product=SME+Contribs&query_format=advanced) 
+
+## Description
+
+
+
