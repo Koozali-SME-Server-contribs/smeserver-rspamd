@@ -1,7 +1,7 @@
 %define name smeserver-rspamd
-%define version 1.0
+%define version 11.0
 %define release 1
-Summary: This is what smeserver-rspamd does.
+Summary: SME Server Rspamd
 Name: %{name}
 Version: %{version}
 Release: %{release}%{?dist}
@@ -13,14 +13,17 @@ Prefix: %{_prefix}
 BuildArchitectures: noarch
 BuildRequires: smeserver-devtools
 Requires: smeserver-release >= 11.0
+Requires: smeserver-redis
+Requires: rspamd >= 3.13.2
+
 AutoReqProv: no
 
 %description
-
+SME Server templates for Rspamd support
 
 %changelog
-* Day MMMM DD YYYY <brianr@koozali.org> 1.0-1.sme
-- Initial code - create RPM [SME:99999]
+* Wed Nov 05 2025 Vasarhelyi Zsolt <zsoltv@koozali.org> 11.0-1.sme
+- Initial release
 
 %prep
 
