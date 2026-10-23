@@ -5,10 +5,10 @@ use esmith::Build::CreateLinks qw(:all);
 my $event = "smeserver-rspamd-update";
 
 templates2events("/etc/systemd/system-preset/49-koozali.preset",$event);
-templates2events("/etc/postfix/main.cf",$event);
+templates2events("/var/service/qpsmtpd/config/peers/0",$event);
 
 event_link("systemd-default",$event,"10");
 event_link("systemd-reload",$event,"50");
 
 safe_symlink("restart","root/etc/e-smith/events/$event/services2adjust/rspamd");
-safe_symlink("restart","root/etc/e-smith/events/$event/services2adjust/postfix");
+safe_symlink("restart","root/etc/e-smith/events/$event/services2adjust/qpsmtpd");
